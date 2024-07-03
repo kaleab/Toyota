@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "carName": "Supra",
+    "imageURL": "https://drive.google.com/file/d/1Yzqc-QoLTEpTe1mAWZIPHw1q0aWx2VyN/view?usp=share_link", 
+    "price": "$46,440"
+  },
+  {
+    "id": 2,
+    "carName": "Crown",
+    "imageURL": "https://drive.google.com/file/d/1fHqDnPIgSp1DIa7F3e8vw6z10XfiM8LE/view?usp=share_link",
+    "price": "$41,440"
+  },
+  {
+    "id": 3,
+    "carName": "Camry",
+    "imageURL": "https://drive.google.com/file/d/1ACUmgQ8SwDtATEOTrWq-3yA2kqirpR2R/view?usp=share_link",
+    "price": "$28,400"
+  },
+  {
+    "id": 4,
+    "carName": "CrownSignia",
+    "imageURL": "https://drive.google.com/file/d/1fF2DskCtLZy6Uh2fASTFpE_kf2VMCfZW/view?usp=share_link",
+    "price": "$43,590"
+  },
+  {
+    "id": 5,
+    "carName": "Corolla",
+    "imageURL": "https://drive.google.com/file/d/1cbzbMro-ORtdbjzqEd2FBtoRH0g1pjDL/view?usp=share_link",
+    "price": "$22,050"
+  }
+]
